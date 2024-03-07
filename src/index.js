@@ -52,6 +52,34 @@ const skill = [
     level: "Intermediate",
     color: "#ffa500",
   },
+  {
+    id: 8,
+    skill0: "Photography",
+    emoji0: "&#128247;",
+    level: "Beginner",
+    color: "#00ffff",
+  },
+  {
+    id: 9,
+    skill0: "Python",
+    emoji0: "&#127850;",
+    level: "Advanced",
+    color: "#ffa500",
+  },
+  {
+    id: 10,
+    skill0: "PHP",
+    emoji0: "&#127850;",
+    level: "Intermediate",
+    color: "#ffa501",
+  },
+  {
+    id: 11,
+    skill0: "CSS",
+    emoji0: "&#127850;",
+    level: "Beginner",
+    color: "#ffa501",
+  },
 ];
 
 function App() {
